@@ -1,0 +1,20 @@
+body {
+    scroll-behavior: smooth;
+  }
+  
+  h2, h4 {
+    font-weight: 600;
+  }
+  
+  .card h4 {
+    color: #0d6efd;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+    background-color: #212529;
+  }
+  
+  form input, form textarea {
+    border-radius: 0.5rem;
+  }
